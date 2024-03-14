@@ -1,2 +1,5 @@
-questo e' il sito
-![logo](./IMG-20240314-WA0008.jpg)
+![logo](./IMG-20240314-WA0008.png)
+![logo](./IMG-20240314-WA0009.jpg)
+![logo](./IMG-20240314-WA0010.jpg)
+![logo](./IMG-20240314-WA0011.jpg)
+![logo](./IMG-20240314-WA0012.jpg)
